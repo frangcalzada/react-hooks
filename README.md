@@ -19,5 +19,5 @@ Cada contador tiene sus propios botones para **incrementar, decrementar y resete
 Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/react-counters-app.git
+git clone https://github.com/frangcalzada/react-counters-app.git
 cd react-counters-app
